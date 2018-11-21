@@ -11,7 +11,8 @@ Channel 4 --> PA2
 
 ## How To Build
 
-simply run `make` at the project root and you will see `build/pwm2usb.elf` and `build/pwm2usb.bin` ready to go.
+First make sure you have the ARM toolchain in your system PATH: see [here](https://github.com/illini-robomaster/iRM_Embedded_2018/blob/master/tutorials/ARM_TOOLCHAIN.md) to learn more  
+After you got the toolchain, simply run `make` at the project root and you will see `build/pwm2usb.elf` and `build/pwm2usb.bin` ready to go.
 
 ## How to Flash
 
